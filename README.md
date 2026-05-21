@@ -35,4 +35,4 @@ Key features of this project include:
 
 This repository contains pretrained best-performing model weights, training logs, notebooks, and complete source code implementation for experimentation and research purposes.
 
-Original project concept, architecture, implementation, training pipeline, and development completed by YOUR NAME.
+Original project concept, architecture, implementation, training pipeline, and development completed by ANKAN BARIK.
