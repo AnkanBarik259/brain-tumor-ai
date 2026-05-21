@@ -15,7 +15,7 @@ Skull Stripping & Normalization
 Slice Extraction & Augmentation
    ↓
 Segmentation Model (Deep UNet 3+)
-   ↓
+   ↓ 
 Tumour Region Extraction
    ↓
 Classification Pipeline
