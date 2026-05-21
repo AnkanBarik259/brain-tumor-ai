@@ -373,6 +373,6 @@ The combined orchestration system supports:
 
 # Ownership
 
-Original orchestration pipeline, architecture design, optimization pipeline, implementation, training workflow, and development created by YOUR NAME.
+Original orchestration pipeline, architecture design, optimization pipeline, implementation, training workflow, and development created by ANKAN BARIK.
 
 This repository represents an original AI-powered Brain Tumor Detection and Analysis System developed for medical imaging research and deep learning applications.
