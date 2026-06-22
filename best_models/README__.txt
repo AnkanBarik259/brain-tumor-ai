@@ -2,9 +2,13 @@
 
 This directory contains the best-performing model checkpoints obtained during training and validation.
 
-Due to the use of cloud-based training environments with session time limitations, model checkpoints and training logs were saved periodically to ensure training continuity, reproducibility, and recovery from interrupted sessions.
+Due to the use of cloud-based training environments with session time limitations, model checkpoints and training logs were 
+saved periodically to ensure training continuity, reproducibility, and recovery from interrupted sessions.
 
-The saved checkpoints allow training to resume from the latest completed epoch while preserving the best-performing model discovered during previous training stages. For example, if training resumes from epoch 20 but the highest validation performance was achieved at epoch 15, the epoch 15 checkpoint remains preserved as the best model until a better-performing checkpoint is produced.
+The saved checkpoints allow training to resume from the latest completed epoch while preserving the best-performing model 
+discovered during previous training stages. For example, if training resumes from epoch 20 but the highest validation 
+performance was achieved at epoch 15, the epoch 15 checkpoint remains preserved as the best model until a 
+better-performing checkpoint is produced.
 
 ### 📂 Included Models
 
@@ -17,6 +21,7 @@ The saved checkpoints allow training to resume from the latest completed epoch w
 
 Associated training logs are included to track training progress, validation performance, checkpoint selection, and experiment reproducibility.
 
-These checkpoints represent the highest-performing models obtained throughout the training process and serve as the primary models for inference, evaluation, and further fine-tuning.
+These checkpoints represent the highest-performing models obtained throughout the 
+training process and serve as the primary models for inference, evaluation, and further fine-tuning.
 
 **Developed and trained by Ankan Barik.**
